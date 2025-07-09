@@ -14,6 +14,8 @@ Jogo do Detona Ralph feito com Javascript durante o bootcamp front-end Ri Happy 
 - Modo "difícil" com velocidade crescente.
 - Responsividade para mobile.
 
+## Jogue por aqui => [Mini Jogo Detona Halph](https://abrahaobraga10.github.io/Mini-Jogo-Javascript-DetonaHalph/)
+
 ## Autor
 
 Projeto desenvolvido por Abrahão Braga durante o Bootcamp de Desenvolvimento Web da [DIO](https//dio.me).
